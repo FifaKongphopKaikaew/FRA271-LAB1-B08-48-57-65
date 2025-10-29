@@ -1,0 +1,11 @@
+config load "C:\Users\User\Desktop\RMX\lab RMX\FRA271_Lab1_Sensors-main\lab_endcoder\lab_endcoder.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\User\STM32Cube\Repository\STM32Cube_FW_G4_V1.6.0"
+
+config save C:\Users\User\Desktop\RMX\lab RMX\FRA271_Lab1_Sensors-main\lab_endcoder\lab_endcoder.ioc
+
+
+exit wait
